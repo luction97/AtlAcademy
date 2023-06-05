@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+  "category": "Tecnología",
+  "description": "Preguntas relacionadas con dispositivos electrónicos, innovaciones tecnológicas y avances en la industria."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+  "category": "Gastronomía",
+  "description": "Preguntas relacionadas con alimentos, recetas, técnicas de cocina y experiencias culinarias."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+  "category": "Moda",
+  "description": "Preguntas relacionadas con tendencias de moda, diseñadores, marcas y estilos de vestimenta."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  "category": "Música",
+  "description": "Preguntas relacionadas con géneros musicales, artistas, canciones y conciertos."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  "category": "Política",
+  "description": "Preguntas relacionadas con el gobierno, partidos políticos, líderes y asuntos políticos actuales."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  "category": "Medicina",
+  "description": "Preguntas relacionadas con la salud, enfermedades, tratamientos médicos y avances en el campo de la medicina."
   }
-]
+  ]
