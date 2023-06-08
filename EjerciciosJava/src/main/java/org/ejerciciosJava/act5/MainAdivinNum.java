@@ -13,11 +13,6 @@ public class MainAdivinNum {
         System.out.println("Adivina el número..");
         int numUser = read.nextInt();
 
-        if (numAleatorio == numUser) {
-
-
-        }
-
         if (numUser > numAleatorio) {
             System.out.println("El número es mayor que ese..");
         } else if (numUser < numAleatorio) {
